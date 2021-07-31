@@ -1,0 +1,6 @@
+name: English
+help: |
+  <b>Bot</b> creates nice pixel art
+  Just send /pa and some text on the same line
+language: Please, select the language.
+language_selected: <b>Bot</b> now speaks English.
